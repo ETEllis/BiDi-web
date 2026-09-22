@@ -1,4 +1,4 @@
-[![BiDi: a transformation should account for itself. Open the interactive site.](assets/banner.svg)](https://etellis.github.io/BiDi-web/)
+[![BiDi and CDC marks: system and calculus. A transformation should account for itself.](assets/banner.svg)](https://etellis.github.io/BiDi-web/)
 
 <h1 align="center">BiDi</h1>
 <p align="center"><strong>Universal Operator System</strong><br>Source, state, and evidence in one accountable path.</p>
